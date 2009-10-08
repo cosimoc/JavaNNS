@@ -11,7 +11,7 @@ backpropagation:
   Totale 384
   Accuratezza 80.46875
 
-  n: 0.001 -> non risale  
+  n: 0.005 -> non risale  
   Giuste 310
   Sbagliate 74
   Totale 384
