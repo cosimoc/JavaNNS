@@ -23,4 +23,25 @@ backpropagation:
   Totale 384
   Accuratezza 80.7291666666667
 
++++
+Backpropagation-Momentum
+
+n => 0.001
+u => 0.01
+c => 0.01
+
+Giuste 310
+Sbagliate 74
+Totale 384
+Accuratezza 80.7291666666667
+
+n => 0.01
+u => 0.01
+c => 0.01
+
+Giuste 310
+Sbagliate 74
+Totale 384
+Accuratezza 80.7291666666667
+
 
