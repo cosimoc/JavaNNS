@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-file = File.new('diabetes_learned2..', 'r')
+file = File.new(ARGV[0], 'r')
 
 line0=false
 line1=false

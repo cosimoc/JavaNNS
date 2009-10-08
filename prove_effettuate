@@ -1,0 +1,26 @@
+backpropagation:
+  n: 0.01 -> risale dopo meno di 10000
+  Giuste 312
+  Sbagliate 72
+  Totale 384
+  Accuratezza 81.25
+ 
+  n: 0.02 -> risale sempre dopo meno di 10000
+  Giuste 309
+  Sbagliate 75
+  Totale 384
+  Accuratezza 80.46875
+
+  n: 0.001 -> non risale  
+  Giuste 310
+  Sbagliate 74
+  Totale 384
+  Accuratezza 80.7291666666667
+
+  n: 0.001 -> non risale neanche a 27000
+  Giuste 310
+  Sbagliate 74
+  Totale 384
+  Accuratezza 80.7291666666667
+
+
